@@ -41,7 +41,7 @@ nav ul li{
 	width: 1;
 }
 
-#two{
+#alpha{
 	display: flex;
 	background: yellow;
 	padding: 25px;
@@ -50,14 +50,14 @@ nav ul li{
 
 }
 
-#two div{
+#beta div{
 	display: flex;
 	justify-content: space-around;
 	width: 100%;
 	margin: 10px 0;
 }
 
-#three{
+#gama{
 	color: white;
 	display: flex;
 	flex-direction: column;
@@ -67,7 +67,7 @@ nav ul li{
 }
 
 
-#three div{
+#gama div{
 	
 	justify-content: space-around;
 	display: flex;
@@ -75,7 +75,7 @@ nav ul li{
 	width: 100%;
 }
 
-#three div article{
+#gama div article{
 	background: white;
 	display: flex
 	align-items: flex-start;
