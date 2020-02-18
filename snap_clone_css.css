@@ -50,14 +50,14 @@ nav ul li{
 
 }
 
-#beta div{
+#alpha div{
 	display: flex;
 	justify-content: space-around;
 	width: 100%;
 	margin: 10px 0;
 }
 
-#gama{
+#beta{
 	color: white;
 	display: flex;
 	flex-direction: column;
@@ -67,7 +67,7 @@ nav ul li{
 }
 
 
-#gama div{
+#beta div{
 	
 	justify-content: space-around;
 	display: flex;
@@ -75,7 +75,7 @@ nav ul li{
 	width: 100%;
 }
 
-#gama div article{
+#beta div article{
 	background: white;
 	display: flex
 	align-items: flex-start;
